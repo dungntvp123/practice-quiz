@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/takequiz.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/view/Add_Form.jsp" value="file://$PROJECT_DIR$/web/view" />
+        <entry key="file://$PROJECT_DIR$/web/view/QuesBank.jsp" value="file://$PROJECT_DIR$/web/view" />
+        <entry key="file://$PROJECT_DIR$/web/view/admin/user/edit_user.jsp" value="file://$PROJECT_DIR$/web/view/admin/user" />
+        <entry key="file://$PROJECT_DIR$/web/view/lecture/quiz/LectureTestStatistics.jsp" value="file://$PROJECT_DIR$/web/view/lecture/quiz" />
+        <entry key="file://$PROJECT_DIR$/web/view/partials/navbar.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/view/student/quiz/takequiz.jsp" value="file://$PROJECT_DIR$/web/view/student/quiz" />
+      </map>
+    </option>
+  </component>
+</project>
